@@ -1,0 +1,5 @@
+PHONE
+https://www.figma.com/proto/j5nQiM6bMY2XDhLy3BGJqN/MuhammadRizal_21103041032-Phone?node-id=0%3A1
+
+DESKTOP
+https://www.figma.com/proto/8PJSSwLcplgOwI6hUFcrIs/MuhammadRizal_21103041032-Desktop?node-id=0%3A1
